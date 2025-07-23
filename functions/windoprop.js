@@ -1,8 +1,11 @@
-var a =  23;
+var a =23;
 
-function add(){
-    var b =  10;
-    var c =  30;
-    var add =  b + c;
-    console.log(window.add)
+function b(){
+    var x =  10;
+    
 }
+console.log(window.a)
+console.log(this.a)
+
+console.log(a)
+console.log(x)
